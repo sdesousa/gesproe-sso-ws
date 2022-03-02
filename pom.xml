@@ -45,7 +45,7 @@
 
 		<dependency>
 			<groupId>af.cmr.indyli.gespro.business</groupId>
-			<artifactId>gesproe-business</artifactId>
+			<artifactId>gesproe-sso-business</artifactId>
 			<version>1.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
